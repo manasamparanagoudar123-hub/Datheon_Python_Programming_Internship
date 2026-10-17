@@ -62,6 +62,4 @@ How to run:
 - Input validation and error handling
 - Working with an external library
 
-## Author
 
-Manasa Paranagoudar
